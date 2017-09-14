@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FXReading</string>
+    <string name="title">单 读</string>
+    <string name="index">首 页</string>
+    <string name="word">文 字</string>
+    <string name="voice">声 音</string>
+    <string name="video">影 像</string>
+    <string name="calendar">单向历</string>
+    <string name="powered_by_owspace">Powered by OWSPACE</string>
+    <string name="setting">设 置</string>
+    <string name="message">消息推送</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="font_size">正文字号</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="net_cache">3G/4G流量离线缓存</string>
+    <string name="about">关于</string>
+    <string name="backset">意见反馈</string>
+    <string name="refresh">版本更新</string>
+    <string name="news">消 息</string>
+    <string name="collection">收 藏</string>
+    <string name="offnet">离 线</string>
+    <string name="note">笔 记</string>
+</resources>

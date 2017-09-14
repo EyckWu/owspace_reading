@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FXReading.iml" filepath="$PROJECT_DIR$/FXReading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmvpsample/androidmvpsample.iml" filepath="$PROJECT_DIR$/androidmvpsample/androidmvpsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daggersample/daggersample.iml" filepath="$PROJECT_DIR$/daggersample/daggersample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/owspace-master/owspace-master.iml" filepath="$PROJECT_DIR$/owspace-master/owspace-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+    </modules>
+  </component>
+</project>

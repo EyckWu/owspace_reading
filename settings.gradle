@@ -1,0 +1,1 @@
+include ':app', ':owspace-master', ':rxjavademo', ':androidmvpsample', ':daggersample'
