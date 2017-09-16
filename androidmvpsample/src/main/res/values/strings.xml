@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidMVPSample</string>
+    <string name="city">城市</string>
+    <string name="wd">风向</string>
+    <string name="time">时间</string>
+    <string name="ws">风级</string>
+</resources>
